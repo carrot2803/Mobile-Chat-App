@@ -48,24 +48,24 @@ npm start
 
 Upon launching the Mobile Chat App on your mobile device, you will be presented with the login screen. If you are a new user, you can create an account by providing the required details. Existing users can log in using their credentials. <br/>
 
-Once logged in, you will enter the chat interface, where you can view your conversations, send and receive messages, and interact with other users in real-time. <br/>
+Once logged in, you will enter the chat interface, where you can view your conversations, send and receive messages, and interact with other users in real-time.
 
 ## Snippets
 
 Splash Page(Loading Screen)
-![Screenshot 1](assets/screenshots/screenshot1.png)<br/>
+![Screenshot 1](assets/screenshots/screenshot1.png)
 
 Login Screen
-![Screenshot 2](assets/screenshots/screenshot2.png)<br/>
+![Screenshot 2](assets/screenshots/screenshot2.png)
 
 Sign Up Screen
-![Screenshot 3](assets/screenshots/screenshot3.png)<br/>
+![Screenshot 3](assets/screenshots/screenshot3.png)
 
 Home Screen
-![Screenshot 4](assets/screenshots/screenshot4.png)<br/>
+![Screenshot 4](assets/screenshots/screenshot4.png)
 
 Chat Screen
-![Screenshot 5](assets/screenshots/screenshot5.png)<br/>
+![Screenshot 5](assets/screenshots/screenshot5.png)
 
 Chat Screen(Keyboard Toggled)
-![Screenshot 5](assets/screenshots/screenshot6.png)<br/>
+![Screenshot 5](assets/screenshots/screenshot6.png)
